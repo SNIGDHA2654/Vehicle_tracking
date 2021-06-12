@@ -5,7 +5,7 @@ It is a vehicle detection and tracking model made using Computer Vision and Pyth
 1. Detection: Bounding box on vehicles 
 2. Tracking: Trailing tail on each box
 
-![Video Screen](hhttps://drive.google.com/file/d/13_mNngQb07fXjZ5qRhdXiDSLzSVzzvT9/view?usp=sharing)
+![Video Screen](https://github.com/SNIGDHA2654/Vehicle_tracking/blob/main/Screenshot%20(22).png)
 
 ## Real-time stats
 1. Number of vehicles moving in North and South direction
